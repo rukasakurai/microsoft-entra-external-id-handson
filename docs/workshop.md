@@ -28,7 +28,15 @@ This workshop can be acccessed from the following URL: https://aka.ms/ws?src=gh:
 ---
 
 ## Overview
-構成
+### 用語
+- Azure AD B2C
+- Entra External ID
+- Entra External ID in an external tenant / External tenants
+- Workforce tenants
+
+https://learn.microsoft.com/en-us/entra/external-id/customers/overview-customers-ciam
+
+### 構成
 - Microsoft Entra External ID
 - Azure Static Web Apps
 
