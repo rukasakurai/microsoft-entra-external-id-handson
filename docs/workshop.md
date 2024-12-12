@@ -1,13 +1,13 @@
 ---
-published: true                        # Optional. Set to true to publish the workshop (default: false)
-type: workshop                          # Required.
-title: Microsoft Entra External ID Hands-on              # Required. Full title of the workshop
-short_title: Microsoft Entra External ID Hands-on                # Optional. Short title displayed in the header
-description: Microsoft Entra External ID Hands-on  # Required.
-level: beginner                         # Required. Can be 'beginner', 'intermediate' or 'advanced'
-authors:                                # Required. You can add as many authors as needed      
+published: true
+type: workshop
+title: Microsoft Entra External ID Hands-on
+short_title: Microsoft Entra External ID Hands-on
+description: Microsoft Entra External ID Hands-on
+level: beginner
+authors:    
   - Ruka Sakurai
-contacts:                               # Required. Must match the number of authors
+contacts:
   - @rukasakurai
 duration_minutes: 20                    # Required. Estimated duration in minutes
 tags: javascript, api, node.js          # Required. Tags for filtering and searching
@@ -19,8 +19,6 @@ tags: javascript, api, node.js          # Required. Tags for filtering and searc
 #navigation_levels: 2                    # Optional. Number of levels displayed in the side menu (default: 2)
 #navigation_numbering: true             # Optional. Enable numbering in the side menu (default: true)
 #sections_title:                         # Optional. Override titles for each section to be displayed in the side bar
-#   - Section 1 title
-#   - Section 2 title
 ---
 
 # Microsoft Entra External ID Hands-on
