@@ -8,7 +8,7 @@ level: beginner
 authors:
   - Ruka Sakurai
 contacts:
-  - @rukasakurai
+  - '@rukasakurai'
 duration_minutes: 20                    # Required. Estimated duration in minutes
 tags: javascript, api, node.js          # Required. Tags for filtering and searching
 #banner_url: assets/banner.jpg           # Optional. Should be a 1280x640px image
