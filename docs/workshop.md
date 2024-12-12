@@ -5,7 +5,7 @@ title: Microsoft Entra External ID Hands-on
 short_title: Microsoft Entra External ID Hands-on
 description: Microsoft Entra External ID Hands-on
 level: beginner
-authors:    
+authors:
   - Ruka Sakurai
 contacts:
   - @rukasakurai
